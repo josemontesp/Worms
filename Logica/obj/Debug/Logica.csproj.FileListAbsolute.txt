@@ -1,0 +1,5 @@
+C:\Users\Administrador\documents\visual studio 2013\Projects\T4 Jose Montes\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\documents\visual studio 2013\Projects\T4 Jose Montes\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\documents\visual studio 2013\Projects\T4 Jose Montes\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\documents\visual studio 2013\Projects\T4 Jose Montes\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\documents\visual studio 2013\Projects\T4 Jose Montes\Logica\obj\Debug\Logica.pdb
